@@ -1,3 +1,9 @@
+/*Unidad 1.  Edades
+Autor: David Alejandro Moreno Chaparro
+Fecha: 16/09/2022
+Descripcion: Se indica etapa de vida segun la edad del ususarios
+*/
+
 #include<iostream>
 #include<stdio.h>
 

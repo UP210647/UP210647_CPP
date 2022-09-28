@@ -1,3 +1,8 @@
+/*Unidad 1.  Ciclos
+Autor: David Alejandro Moreno Chaparro
+Fecha: 19/09/2022
+Descripcion: Se utilizan ciclos para contar pares e impares
+*/
 #include <iostream>
 using namespace std;
 
