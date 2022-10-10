@@ -1,10 +1,10 @@
 # UP210647_CPP  
 
-<b><p style= "align:center;"> David Alejandro Moreno Chaparro </p></b>
+<center><b><p style= "align:center;"> David Alejandro Moreno Chaparro </p></b></center>
 
-<div style= "align:center;">
+<center><div style= "align:center;">
 <img alt=c/c++ src="img/c.png" width="250px">
-</div>
+</div></center>
 <br>
 
 La estructura de temas y proyectos para este curso son los siguientes:
