@@ -19,26 +19,26 @@ int main()
     if (edad >= 1 && edad <= 150){
         if (edad >= 1 && edad <= 30){
 
-            printf("Primera edad");
+            printf("Primera edad \n");
         }
         else if (edad >= 31 && edad <= 60){
 
-            printf("Segunda edad");
+            printf("Segunda edad \n");
         }
-        else if (edad >= 61 && edad <= 60)
+        else if (edad >= 61 && edad <= 90)
         {
-            printf("Tercera edad");
+            printf("Tercera edad \n");
         }
-        else if (edad>=61 && edad<=150){
+        else if (edad>=91 && edad<=150){
 
-            printf("Horas extras");
+            printf("Horas extras \n");
         }
     
         
     }
     else{
 
-    printf("Numero invalido");
+    printf("Numero invalido \n");
     }
 
 return 0;

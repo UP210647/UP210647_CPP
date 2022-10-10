@@ -27,9 +27,6 @@ if(renta>=1){
     }else {
         printf("Tu impuesto es de 45%");
     }
-
-
-
 }
 
 }

@@ -33,6 +33,7 @@ int main()
     printf("Hay %d numeros impares\n",impares);
     printf("Hay %d numeros en total\n",total);
     printf("La suma de %d numeros es %d ",n,suma);
+    printf("\n");
 
     return 0;
 }

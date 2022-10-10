@@ -1,5 +1,26 @@
-# UP210647_CPP
+# UP210647_CPP  
 
-**David Alejandro Moreno Chaparro**
+<b><p style= "align:center;"> David Alejandro Moreno Chaparro </p></b>
 
-![](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
+<div style= "align:center;">
+<img alt=c/c++ src="img/c.png" width="250px">
+</div>
+<br>
+
+La estructura de temas y proyectos para este curso son los siguientes:
+
+<ul>
+    <li>U1 Introduccion a la programacion
+    <li>U2 Estructuras y ciclos de control
+    <li>U3 Funciones
+    <li>U4 Archivos y arreglos
+</ul>
+
+Para clonar este repositorio, escribe este comando en tu consola:
+
+<pre>git clone https://github.com/UP210374/UP210374_CPP.git</pre>
+
+| **Contactame**       |                              |
+| -------------------- |          :---------:         |
+| email personal       | davidmorcha10@gmail.com      |
+| email institucional  | up210647@alumnos.upa.edu.mx  |
