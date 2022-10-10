@@ -2,7 +2,7 @@
 
 <b><p align="center"> David Alejandro Moreno Chaparro </p></b>
 
-<p align="center"> <img src=img/c.png> </p>
+<p align="center"> <img src=img/c.png width="300px" > </p>
 
 <br>
 

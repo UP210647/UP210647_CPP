@@ -2,7 +2,7 @@
 
  **1.- Hola mundo**
 
-<br><p><b>Descripcion:</b> Se imprime la frase Hola mundo.</p><br>
+<p><b>Descripcion:</b> Se imprime la frase Hola mundo.</p>
 
 **Codigo**
 
@@ -20,13 +20,13 @@ int main()
 **Resultado**
 
 ![](img/Holamundo.JPG)  
-<br><br>  
+<br>  
 
 ---
 
 **2.- Pares e Impares**
 
-<br><p><b>Descripcion:</b> Se imprime la frase Par o impar.</p><br>
+<p><b>Descripcion:</b> Se imprime la frase Par o impar.</p>
 
 **Codigo**
 
@@ -38,18 +38,18 @@ int main()
     cout << "Par o impar \n"<< endl;
     return 0;
 }
-</pre><br>
+</pre>
 
 **Resultado**  
 
 ![](img/Parimpar.JPG)  
-<br><br>  
+<br> 
 
 ---
 
  **3.- Tipos de datos**
 
-<br><p><b>Descripcion:</b> Indica el tipo de dato y de cuantos bytes es.</p><br>
+<p><b>Descripcion:</b> Indica el tipo de dato y de cuantos bytes es.</p>
 
 **Codigo**
 
@@ -69,12 +69,12 @@ int main(int argc, char const *argv[])
     cout << "El numero del flotante es: " << sizeof(flotante) << "bytes" << endl;
     return 0;
 }
-</pre><br>
+</pre>
 
 **Resultado**
 
 ![](img/Tipos%20de%20datos.JPG )
-<br><br>  
+<br> 
 
 ---
 
@@ -82,7 +82,7 @@ int main(int argc, char const *argv[])
 
  **4.- Ciclos**
 
-<br><p><b>Descripcion:</b> Se utilizan ciclos para contar pares e impares que hay entre el 1 y el 100</p><br>
+<p><b>Descripcion:</b> Se utilizan ciclos para contar pares e impares que hay entre el 1 y el 100</p>
 
 **Codigo**
 
@@ -119,19 +119,19 @@ int main()
 
     return 0;
 }
-</pre><br>
+</pre>
 
 **Resultado**
 
 ![](img/ciclos.JPG)
-<br><br>  
+<br> 
 
 ---
 
 
  **5.- Edades**
 
-<br><p><b>Descripcion:</b> Cuando se teclea una edad entre 1 y 150 indica si esta en la primera,segunda o tercera edad. Si pasa de la tercera edad imprimira "horas extras" y si el numero es menor a 1 o mayor a 150 dira que el numero es invalido</p><br>
+<p><b>Descripcion:</b> Cuando se teclea una edad entre 1 y 150 indica si esta en la primera,segunda o tercera edad. Si pasa de la tercera edad imprimira "horas extras" y si el numero es menor a 1 o mayor a 150 dira que el numero es invalido</p>
 
 **Codigo**
 
@@ -170,7 +170,7 @@ int main()
 
 return 0;
 }
-</pre><br>
+</pre>
 
 **Resultado de primera edad**
 
