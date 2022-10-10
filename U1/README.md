@@ -1,6 +1,6 @@
 # U1 Introduccion a la Programacion
 
-<H2 style="font-size:22px; font-weight:bold; "> 1.- Hola mundo</H2>
+<p style="font-size:22px; font-weight:bold; "> 1.- Hola mundo</p>
 
 <br><p><b>Descripcion:</b> Se imprime la frase Hola mundo.</p><br>
 
@@ -19,12 +19,12 @@ int main()
 
 <p style="font-size:15px; font-weight:bold; ">Resultado</p>
 
-<img alt=c/c++ src="img/Holamundo.jpg" width="400px">
+<img  src="img/Holamundo.jpg" width="400px">
 </div><br><br>
 
 
 
-<H2 style="font-size:22px; font-weight:bold; "> 2.- Pares e Impares</H2>
+<p style="font-size:22px; font-weight:bold; "> 2.- Pares e Impares</p>
 
 <br><p><b>Descripcion:</b> Se imprime la frase Par o impar.</p><br>
 
@@ -47,7 +47,7 @@ int main()
 
 
 
-<H2 style="font-size:22px; font-weight:bold; "> 3.- Tipos de datos</H2>
+<p style="font-size:22px; font-weight:bold; "> 3.- Tipos de datos</p>
 
 <br><p><b>Descripcion:</b> Indica el tipo de dato y de cuantos bytes es.</p><br>
 
@@ -78,7 +78,7 @@ int main(int argc, char const *argv[])
 
 
 
-<H2 style="font-size:22px; font-weight:bold; "> 4.- Ciclos</H2>
+<p style="font-size:22px; font-weight:bold; "> 4.- Ciclos</p>
 
 <br><p><b>Descripcion:</b> Se utilizan ciclos para contar pares e impares que hay entre el 1 y el 100</p><br>
 
@@ -125,7 +125,7 @@ int main()
 </div><br><br>
 
 
-<H2 style="font-size:22px; font-weight:bold; "> 5.- Edades</H2>
+<p style="font-size:22px; font-weight:bold; "> 5.- Edades</p>
 
 <br><p><b>Descripcion:</b> Cuando se teclea una edad entre 1 y 150 indica si esta en la primera,segunda o tercera edad. Si pasa de la tercera edad imprimira "horas extras" y si el numero es menor a 1 o mayor a 150 dira que el numero es invalido</p><br>
 
