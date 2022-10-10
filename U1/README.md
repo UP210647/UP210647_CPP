@@ -17,7 +17,7 @@ int main()
 } 
 </pre><br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado</p>
+**Resultado**
 
 ![](img/Holamundo.JPG)
 
@@ -39,7 +39,7 @@ int main()
 }
 </pre><br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado</p>
+**Resultado**
 
 ![](img/Parimpar.JPG)
 </div><br><br>
@@ -70,7 +70,7 @@ int main(int argc, char const *argv[])
 }
 </pre><br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado</p>
+**Resultado**
 
 ![](img/Tipos%20de%20datos.JPG )
 </div><br><br>
@@ -118,7 +118,7 @@ int main()
 }
 </pre><br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado</p>
+**Resultado**
 
 ![](img/ciclos.JPG)
 </div><br><br>
@@ -167,27 +167,27 @@ return 0;
 }
 </pre><br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado de primera edad</p>
+**Resultado de primera edad**
 
 ![](img/edades1.JPG)
 <br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado de segunda edad</p>
+**Resultado de segunda edad**
 
 ![](img/edades2.JPG)
 <br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado de tercera edad</p>
+**Resultado de tercera edad**
 
 ![](img/edades3.JPG)
 <br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultado de horas extras</p>
+**Resultado de horas extras**
 
 ![](img/edades4.JPG)
 <br>
 
-<p style="font-size:15px; font-weight:bold; ">Resultados invalidos</p>
+**Resultados invalidos**
 
 ![](img/edadesinv1.JPG)
 
