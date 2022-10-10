@@ -19,8 +19,7 @@ int main()
 
 <p style="font-size:15px; font-weight:bold; ">Resultado</p>
 
-<img  src="img/Holamundo.jpg" width="400px">
-</div><br><br>
+![](img/Holamundo.JPG)
 
 
 
@@ -42,7 +41,7 @@ int main()
 
 <p style="font-size:15px; font-weight:bold; ">Resultado</p>
 
-<img alt=c/c++ src="img/Parimpar.jpg" width="400px">
+![](img/Parimpar.JPG)
 </div><br><br>
 
 
@@ -73,7 +72,7 @@ int main(int argc, char const *argv[])
 
 <p style="font-size:15px; font-weight:bold; ">Resultado</p>
 
-<img alt=c/c++ src="img/Tipos de datos.jpg" width="400px">
+![](img/Tipos%20de%20datos.JPG )
 </div><br><br>
 
 
@@ -121,7 +120,7 @@ int main()
 
 <p style="font-size:15px; font-weight:bold; ">Resultado</p>
 
-<img alt=c/c++ src="img/ciclos.jpg" width="400px">
+![](img/ciclos.JPG)
 </div><br><br>
 
 
@@ -170,28 +169,26 @@ return 0;
 
 <p style="font-size:15px; font-weight:bold; ">Resultado de primera edad</p>
 
-<img alt=c/c++ src="img/edades1.jpg" width="350px">
-</div><br><br>
+![](img/edades1.JPG)
+<br>
 
 <p style="font-size:15px; font-weight:bold; ">Resultado de segunda edad</p>
 
-<img alt=c/c++ src="img/edades2.jpg" width="350px">
-</div><br><br>
+![](img/edades2.JPG)
+<br>
 
 <p style="font-size:15px; font-weight:bold; ">Resultado de tercera edad</p>
 
-<img alt=c/c++ src="img/edades3.jpg" width="350px">
-</div><br><br>
+![](img/edades3.JPG)
+<br>
 
 <p style="font-size:15px; font-weight:bold; ">Resultado de horas extras</p>
 
-<img alt=c/c++ src="img/edades4.jpg" width="350px">
-</div><br><br>
+![](img/edades4.JPG)
+<br>
 
 <p style="font-size:15px; font-weight:bold; ">Resultados invalidos</p>
 
-<img alt=c/c++ src="img/edadesinv1.jpg" width="350px">
-</div><br><br>
+![](img/edadesinv1.JPG)
 
-<img alt=c/c++ src="img/edadesinv2.jpg" width="350px">
-</div><br><br>
+![](img/edadesinv2.JPG)
