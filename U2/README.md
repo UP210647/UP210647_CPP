@@ -1,6 +1,6 @@
 # U2 Estructuras y ciclos de control
 
- **<h2>01.-Rentas</h2>**
+**<h2>01.-Rentas</h2>**
 
 <p><b>Descripcion:</b> Muestra el impuesto que corresponde segun la renta anual.</p>
 
@@ -244,8 +244,7 @@ int main(int argc, char const *argv[])
 
 **Codigo**
 
-<pre>
-using namespace std;
+<pre>using namespace std;
 
 int main(int argc, char const *argv[])
 {
@@ -267,7 +266,7 @@ int main(int argc, char const *argv[])
         
 
 
-        printf("\n Desea otro <s/n>");
+        printf("\n Desea otro (s/n)");
         scanf("%s", &opcion);
 
     }
