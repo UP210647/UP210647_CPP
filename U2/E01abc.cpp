@@ -20,11 +20,13 @@ int main(int argc, char const *argv[])
         letra=letra+1;
     }
     printf("\n");
+    printf("\n");
     for(int i=0; i<26; i++)
     {
         printf("%c \t", letra1);
         letra1=letra1+1;
     }
+    printf("\n");
     printf("\n");
     for(int i=0; i<26; i++)
     {
@@ -32,12 +34,14 @@ int main(int argc, char const *argv[])
         letra2=letra2-1;
     }
     printf("\n");
+    printf("\n");
     for(int i=0; i<26; i++)
     {
-        printf("%c \t", letra3);
+        printf("%c \t ", letra3);
         letra3=letra3-1;
     }
-
+    printf("\n");
+    printf("\n");
 
     return 0;
 }
