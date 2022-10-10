@@ -17,11 +17,11 @@ printf("�Cual es tu renta anual?");
 scanf("%f", &renta);
 
 if(renta>=1){
-    if (renta<10000){
+    if (renta<=10000){
         printf("Tu impuesto es de 5% \n");
-    }else if (renta>=10000 && renta<20000) {
+    }else if (renta>=10000 && renta<=20000) {
         printf("Tu impuesto es de 15% \n");
-    }else if(renta>=20000 && renta<35000){
+    }else if(renta>=20000 && renta<=35000){
         printf("Tu impuesto es de 20% \n");
     }else if(renta>=35000 && renta<=60000){
         printf("Tu impuesto es de 30% \n");
