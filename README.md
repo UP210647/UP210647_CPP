@@ -2,9 +2,9 @@
 
 <b><p align="center"> David Alejandro Moreno Chaparro </p></b>
 
-<div align:"center">
+<center>
 <img alt=c/c++ src="img/c.png" width="250px">
-</div>
+</center>
 <br>
 
 La estructura de temas y proyectos para este curso son los siguientes:
