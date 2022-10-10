@@ -84,7 +84,7 @@ int main(int argc, char const *argv[])
 
 **Resultado**
 
-![](img/puntaje.JPG)
+![](img/puntaje2.JPG)
 <br>  
 
 ---
