@@ -84,7 +84,7 @@ int main(int argc, char const *argv[])
 
 **Resultado**
 
-![](img/Puntaje.JPG)
+![](img/puntaje.JPG)
 <br>  
 
 ---
@@ -105,28 +105,28 @@ int main(int argc, char const *argv[])
     char letra2= 'z';
     char letra3= 'Z';
 
-    for(int i=0; i<26; i++)
+    for(int i=0; i<=26; i++)
     {
         printf("%c \t", letra);
         letra=letra+1;
     }
     printf("\n");
     printf("\n");
-    for(int i=0; i<26; i++)
+    for(int i=0; i<=26; i++)
     {
         printf("%c \t", letra1);
         letra1=letra1+1;
     }
     printf("\n");
     printf("\n");
-    for(int i=0; i<26; i++)
+    for(int i=0; i<=26; i++)
     {
         printf("%c \t", letra2);
         letra2=letra2-1;
     }
     printf("\n");
     printf("\n");
-    for(int i=0; i<26; i++)
+    for(int i=0; i<=26; i++)
     {
         printf("%c \t ", letra3);
         letra3=letra3-1;
