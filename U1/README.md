@@ -19,9 +19,10 @@ int main()
 
 **Resultado**
 
-![](img/Holamundo.JPG)
+![](img/Holamundo.JPG)  
+<br><br>  
 
-
+---
 
 **2.- Pares e Impares**
 
@@ -39,12 +40,12 @@ int main()
 }
 </pre><br>
 
-**Resultado**
+**Resultado**  
 
-![](img/Parimpar.JPG)
-</div><br><br>
+![](img/Parimpar.JPG)  
+<br><br>  
 
-
+---
 
  **3.- Tipos de datos**
 
@@ -73,7 +74,9 @@ int main(int argc, char const *argv[])
 **Resultado**
 
 ![](img/Tipos%20de%20datos.JPG )
-</div><br><br>
+<br><br>  
+
+---
 
 
 
@@ -121,7 +124,9 @@ int main()
 **Resultado**
 
 ![](img/ciclos.JPG)
-</div><br><br>
+<br><br>  
+
+---
 
 
  **5.- Edades**
