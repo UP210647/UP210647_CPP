@@ -15,6 +15,15 @@ La estructura de temas y proyectos para este curso son los siguientes:
     <li>U4 Archivos y arreglos
 </ul>
 
+| **Comandos Basicos** |                              |
+| -------------------- |          :---------:         |
+| git status           | Nos da toda la información necesaria sobre la rama actual.      |
+| git add .            | Necesitamos usar el comando git add para incluir los cambios del o de los archivos en tu siguiente commit.  |
+| git commit           | Es como establecer un punto de control en el proceso de desarrollo al cual puedes volver más tarde si es necesario.     |
+| git push             | Envía tus commits al repositorio remoto.  |
+
+<br>
+
 Para clonar este repositorio, escribe este comando en tu consola:
 
 <pre>git clone https://github.com/UP210374/UP210374_CPP.git</pre>

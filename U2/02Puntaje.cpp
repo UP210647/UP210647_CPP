@@ -33,7 +33,6 @@ int main(int argc, char const *argv[])
             n=2400*p;
             printf("Tu nivel es Meritorio y recibiras %d $ \n",n);
         }
-        
     }
 
     return 0;
