@@ -234,7 +234,7 @@ int main(int argc, char const *argv[])
 
 **Resultados**
 
-![](img/temperaturas.JPG)  
+![](img/Temperaturas.JPG)  
 <br>
 
 ---
