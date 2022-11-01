@@ -1,3 +1,9 @@
+
+/* Unidad 2. For for
+Autor: David Alejandro Moreno Chaparro
+Fecha: 07/10/2022
+Descripcion: Todas las tablas 
+*/
 #include <iostream>
 using namespace std;
 
