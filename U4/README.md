@@ -1,5 +1,5 @@
-# Juego del Gato
+# Juego del Gato  
 
-**Diagrama de flujo**
+**Diagrama de flujo**  
 
-![](img/diagramadeflujo.JPEG)
+![](img/diagramadeflujo.jpeg)  
