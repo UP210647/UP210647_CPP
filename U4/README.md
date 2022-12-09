@@ -2,4 +2,8 @@
 
 **Diagrama de flujo**  
 
-![](img/diagramadeflujo.jpeg)  
+![](img/metodos.JPG)
+
+
+
+![](img/Diagram.jpeg)  
